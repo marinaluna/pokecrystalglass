@@ -1,4 +1,7 @@
-# Pokémon Emerald
+# Pokémon CrystalGlass
+
+A ROM hack of Pokémon Emerald.
+
 
 [![Build Status][travis-badge]][travis]
 

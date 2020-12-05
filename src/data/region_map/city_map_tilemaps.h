@@ -1,3 +1,4 @@
+const u32 gPokenavCityMap_NewBark_0[] = INCBIN_U32("graphics/pokenav/city_maps/newbark_0.bin");
 const u32 gPokenavCityMap_Lavaridge_0[] = INCBIN_U32("graphics/pokenav/city_maps/lavaridge_0.bin.lz");
 const u32 gPokenavCityMap_Fallarbor_0[] = INCBIN_U32("graphics/pokenav/city_maps/fallarbor_0.bin.lz");
 const u32 gPokenavCityMap_Fortree_0[] = INCBIN_U32("graphics/pokenav/city_maps/fortree_0.bin.lz");
